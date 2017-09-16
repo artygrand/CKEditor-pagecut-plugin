@@ -1,7 +1,7 @@
 # CKEditor-pagecut-plugin
 Widget that inserts `<CUT />` tag
 
-![Screenshot](https://cloud.githubusercontent.com/assets/2451297/7418989/cd9889d8-ef93-11e4-9c05-5057a9381c92.png)
+![Screenshot](https://user-images.githubusercontent.com/1144613/30511971-da97280e-9aec-11e7-9cec-2a9bbefb7194.gif)
 
 ####License
 
