@@ -18,7 +18,9 @@ CKEDITOR.plugins.add( 'pagecut', {
 		CKEDITOR.dtd.$object['cut'] = 1;
 		CKEDITOR.dtd.$block['cut'] = 1;
 
-		editor.widgets.add('pagecut', {
+        editor.filter.allow( 'cut', 'pagecut' );
+
+        editor.widgets.add('pagecut', {
 			template: '<div class="pagecut"></div>',
 			upcast: function(element){
 				return element.name == 'cut';
