@@ -1,3 +1,3 @@
 ﻿CKEDITOR.plugins.setLang( 'pagecut', 'en', {
-	button: 'Insert tag CUT for creating preview'
+    button: 'Insert tag CUT for creating preview'
 });
